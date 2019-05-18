@@ -143,3 +143,5 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+.h2.server.properties
+package-lock.json
